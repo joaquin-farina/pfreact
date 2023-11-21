@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2E4F4F;
+
+
+}
+
+.logoSagaComics {
+    width: 100px;
+}
+
+li {
+    display: inline-block;
+    margin: 0 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a {
+    list-style: none;
+    color: #fff;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+a:hover {
+    color: grey;
+}
